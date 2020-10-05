@@ -1,0 +1,29 @@
+JSON data to plotly:
+https://stackoverflow.com/questions/51838992/json-data-to-plotly
+
+Javascript extract data from dictionary: 
+https://stackoverflow.com/questions/12021721/javascript-extract-data-from-dictionary
+
+get variable inside the function:
+https://stackoverflow.com/questions/40172830/get-variable-inside-the-function
+
+Plotly.js - How to fix space between bars in barchart: 
+https://stackoverflow.com/questions/40275588/plotly-js-how-to-fix-space-between-bars-in-barchart
+
+Dynamically loading data Javascript Charts: 
+https://www.youtube.com/watch?v=hXZJntRK9a8&t=240s
+
+Plotly.js -Customize bar charts: 
+https://plotly.com/javascript/bar-charts/
+
+Pass JSON string directly to Plotly: 
+https://community.plotly.com/t/pass-json-string-directly-to-plotly/1925
+
+What is asynchronous code?: 
+https://www.freecodecamp.org/news/async-await-javascript-tutorial/
+
+Multiple Transforms in JavaScript "Bubble Chart": 
+https://plotly.com/javascript/multiple-transforms/
+
+Javascript array tricks: 
+https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=173s
