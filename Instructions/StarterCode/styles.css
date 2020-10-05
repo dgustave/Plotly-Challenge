@@ -1,11 +1,11 @@
 /*GREENS: #4ac4ac, #399988, #0f4534, #0a1a17;*/
-
+/* 
 * {
     margin: 0;
     padding: 0;
   }
-/*   
-  body,
+/*    */
+  /* body,
   html {
     width: 100%;
     height: 100%;
@@ -18,8 +18,8 @@
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
   } */
-  
-  .container {
+   */
+  /* .container {
     position: relative;
     margin: 100px auto 50px auto;
     height: 165px;
@@ -93,4 +93,4 @@
     dominant-baseline: alphabetic;
     font: 12px verdana, sans-serif;
     fill: #aaa;
-  }
+  } */
