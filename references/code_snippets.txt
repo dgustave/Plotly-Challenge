@@ -24,3 +24,24 @@ https://www.freecodecamp.org/news/async-await-javascript-tutorial/
 
 Multiple Transforms in JavaScript "Bubble Chart": 
 https://plotly.com/javascript/multiple-transforms/
+
+Javascript array tricks: 
+https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=173s
+
+Map arrays of string to numbers: 
+https://stackoverflow.com/questions/15677869/how-to-convert-a-string-of-numbers-to-an-array-of-numbers
+
+Create a custom gauge with a meter: 
+https://codepen.io/enxaneta/pen/EVYRJJ
+
+How to calculate your own frequency: 
+https://stackoverflow.com/questions/18619785/counting-frequency-of-characters-in-a-string-using-javascript
+
+Create Pie Chart Gauge: 
+https://community.plotly.com/t/plotly-js-gauge-pie-chart-data-order/8686
+
+Remove delimiters from string in JavaScript: 
+https://stackoverflow.com/questions/44809879/efficient-way-to-remove-delimiters-from-string-in-javascript
+
+Adding text to beginning of each array element: 
+https://stackoverflow.com/questions/20498409/adding-text-to-beginning-of-each-array-element

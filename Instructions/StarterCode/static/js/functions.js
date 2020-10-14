@@ -1,5 +1,5 @@
 // 1. Use the D3 library to read in `samples.json`.
-var jsonFile = "../data/samples.json";
+var jsonFile = "samples.json";
 
 function initWebpage(){
     var dropdownMenu = d3.select("#selDataset");
@@ -157,7 +157,7 @@ function getInfo(sample) {
 }
 
 
-
+// Old way was half a pie chart with a needle as a scatter plot: 
 
         // * Update the chart whenever a new sample is selected.
 function buildgauge(sample){
